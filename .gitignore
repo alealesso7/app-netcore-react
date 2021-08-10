@@ -1,0 +1,11 @@
+Persistance/obj/
+Persistance/bin/Debug/netstandard2.0/Persistance.dll
+Persistance/bin/
+Domain/bin/
+Domain/obj/
+Application/obj/
+API/obj/
+Application/bin/
+API/bin/
+.vscode/
+.vs/
